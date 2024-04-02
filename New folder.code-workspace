@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../New folder"
+		},
+		{
+			"path": "../New folder 111"
+		},
+		{
+			"path": "../../../../xampp/htdocs/work"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New folder"
+	}
+}
